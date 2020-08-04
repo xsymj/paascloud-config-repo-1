@@ -19,7 +19,7 @@ spring:
     password: guest
   redis:
     host: paascloud-db-redis
-    password: paascloud@redis
+    password: 78bbe31182e4f3852faea0c98e905299
     port: 6379
     timeout: 0
   datasource:
